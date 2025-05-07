@@ -1,0 +1,10 @@
+com/taskmanager/Task$TaskPriority.class
+com/taskmanager/Main.class
+com/taskmanager/DatabaseManager.class
+com/taskmanager/TaskThread$TaskOperation.class
+com/taskmanager/TaskManagerGUI.class
+com/taskmanager/TaskThread.class
+com/taskmanager/TaskManagerGUI$1.class
+com/taskmanager/Task.class
+com/taskmanager/TaskManager.class
+com/taskmanager/Task$TaskStatus.class
